@@ -1,0 +1,13 @@
+{
+  "format": 1,
+  "baseline": "5d89f2ee7ab65d828fa1d581cd4aa45322a63e961ea3fdd75da0adf2c1590d8c",
+  "sequence": 1,
+  "label": "2026.09.15.1",
+  "loaderVersion": 1,
+  "saveVersion": 1,
+  "package": {
+    "url": "https://raw.githubusercontent.com/lebronojamo/Test/main/crownfall-updates/release-1.json",
+    "bytes": 3621980,
+    "sha256": "c05aa0b5958cf44d057297fbe6aff88f4905b9689a1b9b73074aef99b853e449"
+  }
+}
